@@ -1,0 +1,23 @@
+# LangChain Framework
+langchain
+langchain-community
+langchain-text-splitters
+langchain-qdrant
+
+# NVIDIA AI Integration
+langchain-nvidia-ai-endpoints
+
+# Vector Database
+qdrant-client
+
+# Embeddings
+fastembed
+
+# PDF Processing
+pypdf
+
+# Environment Variables
+python-dotenv
+
+# Optional: Streamlit UI
+streamlit

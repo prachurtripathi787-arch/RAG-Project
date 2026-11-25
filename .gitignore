@@ -1,0 +1,48 @@
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Build Files
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE and Editors
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Testing and Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Qdrant Local Storage
+.qdrant/
+storage/
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
