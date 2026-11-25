@@ -190,7 +190,7 @@ pip install -r requirement.txt
 
 B.Tech Student | AI & Python Enthusiast
 
-GitHub: [Your GitHub Profile](https://github.com/)
+GitHub: [prachurtripathi787-arch](https://github.com/prachurtripathi787-arch)
 
 LinkedIn: [Prachur Tripathi](https://www.linkedin.com/in/prachur-tripathi-45209b322/)
 
